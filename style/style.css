@@ -2,17 +2,21 @@
     font-family: 'Montserrat', sans-serif;
 }
 body {
-    background-color: grey;
+    background-image: url("../img/bg.png");
     margin: auto;
 }
 .principal {
+    opacity: 1;
     width: 80%;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 30px;
     border-radius: 5px;
-    background-color: rgb(233, 233, 233);
+}
+.parabens {
+    background-color: rgb(231, 231, 231);
+    padding-top: 15px;
 }
 #titulo {
     text-align: center;
